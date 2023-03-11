@@ -4,7 +4,7 @@
 - I’m a sexy
 - I’m a cook
 - I’m a iOS developer
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=crazypoo&theme=dark&locale=zh_Hans)](https://git.io/streak-stats)
 ### Star history
-
 [![Star History Chart](https://api.star-history.com/svg?repos=crazypoo/PTools&type=Date)](https://star-history.com/#crazypoo/PTools&Date)
 
